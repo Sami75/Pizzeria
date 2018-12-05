@@ -1,0 +1,19 @@
+.gap {
+	margin-right:0.025%;
+	margin-bottom:0.025%;
+}
+
+body {
+	background-color: #f2f2f2;
+}
+
+.verrouiller {
+	border-radius: 10px; 
+	background-color: #808080;
+}
+.border {
+	border-style: outset;
+	border-radius: 10px;
+	border-color: #61A5FE; 
+	background-color: #ffff ;
+}
